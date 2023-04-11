@@ -1,8 +1,8 @@
 # git
-> my rules for using git and help
+> my rules for using git, and help
 
 ## rules
-### initial
+### commit massage
 - 大文字
 - 開始は以下
   - Add : 追加
@@ -22,7 +22,12 @@
 
 
 # github
-> my rules for using github and help
+> my rules for using github, and help
+
+## rules
+
+## README markup
+
 
 ## 引用
 - [gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
