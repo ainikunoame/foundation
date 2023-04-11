@@ -1,5 +1,5 @@
 # git
-> rules for using git
+> my rules for using git and help
 
 ## rules
 ### initial
@@ -20,4 +20,9 @@
   - Allow : 許可
   - Implement : 埋め込む
 
-引用元 : [gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
+
+# github
+> my rules for using github and help
+
+## 引用
+- [gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
