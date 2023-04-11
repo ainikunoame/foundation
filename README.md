@@ -3,11 +3,12 @@
 
 ## rules
 ### commit massage
-- 大文字
-- 開始は以下
+- 先頭は大文字
+- 開始はできるだけ以下から
   - Add : 追加
-  - Fix : 修正
-  - Update : 修正
+  - Fix : 問題を修正
+  - Edit : 編集
+  - Update : 更新
   - Remove : 削除、除去
   - Use : 使用
   - Don't : できなく、しなくする
