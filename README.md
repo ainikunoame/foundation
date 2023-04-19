@@ -1,5 +1,5 @@
 # git
-> my rules for using git, and help
+my rules for using git, and help
 
 ## rules
 ### commit massage
@@ -23,12 +23,12 @@
 
 
 # github
-> my rules for using github, and help
+my rules for using github, and help
 
 ## rules
 
 ## README markup
 
 
-## 引用
+## 参考
 - [gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
