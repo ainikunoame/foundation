@@ -49,4 +49,5 @@ Conclusion
 References
 ========
 
-<ここに参考文献を記述してください>
+`コミットメッセージの変更 - GitHub Docs <https://docs.github.com/ja/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message>`_
+
