@@ -63,6 +63,12 @@ reSTでは、以下の文字のいずれかを、見出しにしたい文字列�
 
 "Code Text"
 
+:: 
+
+   `` Monospaced Font `` 
+   
+``Monospaced Font`` 
+
 
 引用文
 ========
