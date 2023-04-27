@@ -1,6 +1,7 @@
 # git
 
-## myrules
+## マイルール
+
 ### commit massage
 
 | 先頭   | 意味       | 
@@ -22,9 +23,8 @@
 
 # github
 
-## myrules
-
-
+## Gistについて
+### 何が便利か
 
 ## 参考
 [GitHub Docs](https://docs.github.com/ja)
