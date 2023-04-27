@@ -1,34 +1,32 @@
 # git
-my rules for using git, and help
 
-## rules
+## myrules
 ### commit massage
-- 先頭は大文字
-- 開始はできるだけ以下から
-  - Add : 追加
-  - Fix : 問題を修正
-  - Edit : 編集
-  - Update : 更新
-  - Remove : 削除、除去
-  - Use : 使用
-  - Don't : できなく、しなくする
-  - Make : 作成、改良
-  - Move : 移動
-  - Change : 変更
-  - Rename : 名前の変更
-  - Improve : 向上
-  - Avoid : 回避
-  - Allow : 許可
-  - Implement : 埋め込む
+
+| 先頭   | 意味       | 
+| ------ | ---------- | 
+| Add    | 追加       | 
+| Fix    | 問題の修正 | 
+| Edit   | 編集       | 
+| Update | 更新       | 
+| Remove | 削除、除去 | 
+| Rename | 名前の変更 | 
+| Use    | 使用       | 
+| Make   | 作成、改良 | 
+| Change | 変更       | 
+| Avoid  | 回避       | 
+| Allow  | 許可       | 
+| Don't  | 否定       | 
+
 
 
 # github
-my rules for using github, and help
 
-## rules
+## myrules
 
-## README markup
 
 
 ## 参考
-- [gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
+[GitHub Docs](https://docs.github.com/ja)
+
+[gitにおけるコミットログ/メッセージ例文集](https://anond.hatelabo.jp/20160725092419)
