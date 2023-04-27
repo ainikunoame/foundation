@@ -1,9 +1,5 @@
 # .md cheat sheet
 
-## introduction
-
-導入
-
 ## 目次
 
 
@@ -55,18 +51,24 @@
 
 
 ## コードブロック
-バッククオート3つで挟む
 
+````
 ```
-` ` `
 コードブロック
-` ` `
 ```
+````
 
 ## コードサンプル
 
-最初のバッククオート3つの後ろに言語名
+````
+```c
+#include <stdio.h>
 
+int main(void) {
+  printf("Hello world");
+ }
+ ```
+````
 ```c
 #include <stdio.h>
 
@@ -117,11 +119,8 @@ int main(void) {
 ## 水平線
 
 ```
-===================
-
 --------------
 ```
-===================
 
 --------------
 
@@ -160,7 +159,7 @@ b = a^e \mod n
 
 [参考]
 -------------
-[Markdown記法 チートシート]([https://www.google.co.jp](https://qiita.com/Qiita/items/c686397e4a0f4f11683d))
+[GitHub Docs](https://docs.github.com/ja)
 
 [varsion]
 -----------------
